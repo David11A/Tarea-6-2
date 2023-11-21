@@ -1,0 +1,16 @@
+.card-img-top {
+    width: 100%;  
+    height: auto;
+    max-width: none; 
+    display: block;
+    margin: 0 auto;
+}
+.col-md-4 {
+    background-color: #f2f2f2; 
+    padding: 15px;
+    border: 1px solid #ddd;
+}
+
+#movimientos {
+    font-size: smaller; 
+}
